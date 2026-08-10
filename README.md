@@ -13,6 +13,14 @@ straight into the active window. Written in Swift with no third-party dependenci
 
 [![Скачать](https://img.shields.io/github/v/release/roviver/ClipStack?label=Скачать%20.dmg&style=for-the-badge)](https://github.com/roviver/ClipStack/releases/latest)
 
+<br>
+
+<img src="docs/screenshots/panel.png" width="380" alt="Панель истории">
+&nbsp;&nbsp;
+<img src="docs/screenshots/settings.png" width="380" alt="Настройки">
+
+<sub>Панель истории по ⇧⌘V и настройки</sub>
+
 </div>
 
 ## Установка
